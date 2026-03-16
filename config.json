@@ -12,8 +12,8 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "___🍒💭মা্ঁন্ঁসি্ঁক্ঁ শা্ঁন্তি্ঁ!:')' 💙🦋🙂",
-  "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "PREFIX": ".",
+  "reactUnsend": ["😡", "🤧", "😤", "😠", "🥸", "🫦"],
 
   "ADMINBOT": [
     "100086576874686",
